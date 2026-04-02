@@ -1,0 +1,4 @@
+{
+  "message": "Failed to generate catalog data",
+  "stack": "Error: Failed to generate catalog data\n    at Object.generateCatalogData (C:\\Users\\parth\\.gemini\\antigravity\\scratch\\catalog-bot\\src\\services\\gemini.js:152:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async test (C:\\Users\\parth\\.gemini\\antigravity\\scratch\\catalog-bot\\tmp\\test_image.js:8:17)"
+}
